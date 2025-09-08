@@ -1,4 +1,4 @@
-# 🖩 Python Tkinter Calculator
+## 🖩 Python Tkinter Calculator
 
 A simple yet elegant **Graphical User Interface (GUI) Calculator** built with **Python’s Tkinter library**.  
 This calculator supports basic arithmetic operations and is styled with custom colors for a modern look.  
